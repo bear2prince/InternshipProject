@@ -19,13 +19,13 @@ CIS focus on:
 
 ## Project Introduction
 ### Project name
-- Smart Web Application Vulnerability Scanner
+- Smart Web Application Penetration Testing Tool
 
 ### Project supervisor
 - Nigel Phair
 
 ### Content
-The idea of this project is the use of AI/Machine Learning that can think like a human in order to perform automated penetration testing.  Traditional vulnerability scanners may not be able to understand the web application being tested, nor any human language surrounding commands.  Conceptually, the software which is designed with AI/machine learning concept should allow open-source penetration testing software applications to become more accurate in predicting outcomes without being explicitly programmed. 
+The idea of this project is the use of AI/Machine Learning that can think like a human in order to perform automated penetration testing.  Traditional vulnerability scanners may not be able to understand the web application being tested, nor any human language surrounding commands.  Conceptually, the software which is designed with AI/machine learning concept should allow open-source penetration testing software applications to become more accurate in predicting outcomes without being explicitly programmed.
 
 ### Requirement of the prototype
 The prototype designed will allow for automated penetration-testing, with the (open source) software being pointed a website, where it can register a legitimate account and scan for weaknesses in the profile-editing pages (among other things).

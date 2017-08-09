@@ -30,9 +30,6 @@ that can think like a human in order to perform automated penetration testing.
 1. Investigate the idea of security penetration testing of web applications and learn the methodology and open source tools of penetration testing.
 2. Combining the concepts of AI/machine learning with current open source penetration testing tools, design, build and test a simple, yet powerful, software tool which conducts security penetration testing automatically.
 
-### Requirement for the prototype
-The prototype designed will allow for automated penetration-testing, with the (open source) software being pointed a website, where it can register a legitimate account and scan for weaknesses in the profile-editing pages (among other things).
-
 ### Resources
 - Kali Linux: a Debian-derived Linux distribution designed for digital forensics and penetration testing.
 - OWASP ZAP: an open-source web application security scanner.
@@ -60,3 +57,6 @@ The prototype designed will allow for automated penetration-testing, with the (o
 |12|function 3 build|
 |13|function 3 test|
 |14|final test && submission|
+
+### Deliverables
+A prototype will allow for automated penetration-testing, with the (open source) software being pointed a website, where it can register a legitimate account and scan for weaknesses in the profile-editing pages (among other things).
